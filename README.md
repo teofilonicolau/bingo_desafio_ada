@@ -1,7 +1,6 @@
 # Multiplayer Bingo
-
 Bem-vindo ao Multiplayer Bingo! Este é um programa Java que implementa um jogo de bingo multiplayer.
-
+(Por uma questão de fé . Não participo de jogos de apostas . Mas não tenho nada contra quem o faz .Contudo na minha formação surgiu um desafio de criar um programa de um bingo, seguindo algumas normas .Tentei fazer um:)
 ## Como Jogar
 
 1. Execute o programa e escolha a opção para iniciar o jogo.
